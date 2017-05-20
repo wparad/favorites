@@ -17,6 +17,12 @@ List of Scotch
 ## Caol Ila
 * 12 Year:
 
+## Glendrotach
+* Highland (Oloroso and Sherry): 85.0
+
+## Glenfarclas
+* 15 year: standard "scotch": 50.0
+
 ## Glenfidich
 * 12 year: 30.0
 * 15 year: 25.0
