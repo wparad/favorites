@@ -58,3 +58,8 @@ List of Scotch
 * 10 Year: 75.0
 * Storm: 75.0
 
+# Cigars
+
+## Romeo y Julieta
+* Habana Romeo No. 3: 1.0 (Really bad taste)
+
