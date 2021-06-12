@@ -61,6 +61,31 @@ List of Scotch
 
 # Cigars
 
+## Antigua
+* Esteli Segovias Maduro Toro BP: 3.5
+
+## Cuaba
+* Distinguidos: 4
+* Divinos, Traditionales, Exclusives: 3.5
+
+## H. Upmann
+* Propios Limited Edition 2018: 4.5
+
+## Montecristo
+* Open Master: 3.0
+
+## My Faster
+* Le Bijou 1922:
 ## Romeo y Julieta
 * Habana Romeo No. 3: 1.0 (Really bad taste)
+* Cazadores: 3.0 (too long)
+* Cedros de Luxe LCDH: 3.0 (too long)
 
+## Saint Luis Rey
+* Tesoros Regional Edition Spain: 4
+
+## San CRistobal De La Habana
+* El Principe: 
+
+## Trinidad
+* Reyes: 4.5 (Too short)
