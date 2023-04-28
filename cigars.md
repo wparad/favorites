@@ -81,5 +81,5 @@ Super Toro - Too long
 ## Trinidad
 * Reyes: 4.5 (Too short)
 
-## Viva
-* La Vida Toro: 3.5
+## Viva La Vida
+* Toro: 3.5
