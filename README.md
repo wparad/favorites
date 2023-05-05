@@ -2,6 +2,10 @@
 
 [Cigars](./cigars.md)
 
+# Hot Sauces
+
+[Hot Sauces](./hot-sauces.md)
+
 # Scotch
 List of Scotch
 
