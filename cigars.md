@@ -41,7 +41,8 @@ Super Toro - Too long
 
 ## Joya
 * Antaño: 3.5
-* Antaño Dack Corojo: 4
+  * Creamy but bland and the smoke is boring
+* Antaño Dark Corojo: 4
 * Black: 2
 * Cabinetta: 3
 * Nicaragua Classio Organic: 4
