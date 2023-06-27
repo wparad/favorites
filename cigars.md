@@ -24,7 +24,8 @@ Super Toro - Too long
 * Divinos, Traditionales, Exclusives: 3.5
 
 ## Davidoff
-* Nic Toro Box Press CE: 4
+* Nicaragua Toro Box Pressed: 5
+* Nicaragua Toro Box Press CE: 4
 
 ## Drew Estate
 * Undercrown Maduro Gran Toro: 4
@@ -45,6 +46,8 @@ Super Toro - Too long
 * Antaño Dark Corojo: 4
 * Black: 2
 * Cabinetta: 3
+* Classico Medio Siglo: 1
+  * Poorly rolled - very difficult, burns from the inside
 * Nicaragua Classio Organic: 4
 * Red: 4
 
