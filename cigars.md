@@ -54,6 +54,7 @@ Super Toro - Too long
 ## La Aurora
 * 07 Nicaragua Toro: 2
 * 107 Nicaragua Churchill: 4
+* 107 Ecuador: 3
 
 ## Montecristo
 * Open Master: 3.0
