@@ -8,3 +8,8 @@ Too sour, Vinegar, liquid consistency, okay flavor
   * Spicy: 100
   * Flavor: 80
   * Too much Habanero 
+
+## Womsauce
+* No flavor
+* Consistency: Water
+* Spicy: 0
