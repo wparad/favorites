@@ -26,6 +26,8 @@ Super Toro - Too long
 ## Davidoff
 * Nicaragua Toro Box Pressed: 5
 * Nicaragua Toro Box Press CE: 4
+* Winston Churchill The original (white band) - Churchill: 3.5
+  * Dirty taste
 
 ## Drew Estate
 * Undercrown Maduro Gran Toro: 4
