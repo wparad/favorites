@@ -28,6 +28,9 @@ Super Toro - Too long
 * Nicaragua Toro Box Press CE: 4
 * Winston Churchill The original (white band) - Churchill: 3.5
   * Dirty taste
+* Winston Churchill The Late Hour (Dark): 4
+  * 1.5 hr
+  * Spicy + Dark Taste
 
 ## Drew Estate
 * Undercrown Maduro Gran Toro: 4
