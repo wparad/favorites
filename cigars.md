@@ -24,6 +24,8 @@ Super Toro - Too long
 * Divinos, Traditionales, Exclusives: 3.5
 
 ## Davidoff
+* Millennium Piramides: 3.5
+  * Old burn taste
 * Nicaragua Toro Box Pressed: 5
 * Nicaragua Toro Box Press CE: 4
 * Signiture 2000 Corona: 4
