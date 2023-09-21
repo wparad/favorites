@@ -3,11 +3,16 @@
 
 Super Toro - Too long
 
+### A.Fuente
+* Rosado Magnum R54 CE: 3.5~4
+* Hemingway Signiture: 3.8
+
 ## Aging Room
 * Nicaragua Quattro Espressivo: 3.5~4.5
 
 ## Avo Seasons
 * Spring LE23 CE: 3
+* Syncro Fog Toro: 3.8
 
 ## Antigua
 * Esteli Segovias Maduro Toro BP: 3.5~4 (Too Dark)
@@ -80,6 +85,7 @@ Super Toro - Too long
 
 ## Plasencia
 * Alma del Fuego Concepcion: 5
+* Reserva original church: 3.5
 
 ## Romeo y Julieta
 * Belicosos: 3
