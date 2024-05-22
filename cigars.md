@@ -46,6 +46,7 @@ Super Toro - Too long
 * Yamasa Petit Churchill: 4.0
 
 ## Drew Estate
+* Undercrown Maduro Robusto: 3.5
 * Undercrown Maduro Gran Toro: 4.0
 * Liga Privada No. 9 Corona Doble: 4.0
 
@@ -67,7 +68,7 @@ Super Toro - Too long
 * Classico Medio Siglo: 1.0
   * Poorly rolled - very difficult, burns from the inside
 * Nicaragua Classio Organic: 4.0
-* Red: 4.0
+* Red: 3.7
 
 ## La Aurora
 * 07 Nicaragua Toro: 2.0
@@ -83,9 +84,17 @@ Super Toro - Too long
 * Le Bijou 1922: 3.5 (Too Dark)
 * The Judge Toro: 4.0
 
+## Oliva
+* Serie V Liga Especial Double Toro: 3.5
+  * Chocolate + Dark/Spicy
+
+## Padron
+* 1926 No. 6 Natural: 4.5
+
 ## Plasencia
 * Alma del Fuego Concepcion: 5.0
 * Reserva original church: 3.5
+* Alma Fuerte Robustus I: 2.5
 
 ## Romeo y Julieta
 * Belicosos: 3.0
