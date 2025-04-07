@@ -50,6 +50,9 @@ Super Toro - Too long
 * Undercrown Maduro Gran Toro: 4.0
 * Liga Privada No. 9 Corona Doble: 4.0
 
+## Esencia
+* Yes!
+
 ## EPC Encore
 * El Primero: 3.0
 
@@ -89,6 +92,7 @@ Super Toro - Too long
   * Chocolate + Dark/Spicy
 
 ## Padron
+* 1926 Serie No. 2: 4.5
 * 1926 No. 6 Natural: 4.5
 
 ## Plasencia
