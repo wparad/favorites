@@ -56,6 +56,9 @@ Super Toro - Too long
 ## EPC Encore
 * El Primero: 3.0
 
+## Flor des Selva
+* Classic No. 15: 3.0
+
 ## H. Upmann
 * Propios Limited Edition 2018: 4.5
 
