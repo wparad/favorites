@@ -24,6 +24,12 @@ Super Toro - Too long
 ## Casa Magna
 * Colorado Gran Toro: 0 (Do not get the Gran anything)
 
+## Cumpay
+* No 15: 3.5
+* Robusto:
+* Short:
+* Volcan:
+  
 ## Cuaba
 * Distinguidos: 4.0
 * Divinos, Traditionales, Exclusives: 3.5
@@ -120,6 +126,10 @@ Super Toro - Too long
 
 ## Trinidad
 * Reyes: 4.5 (Too short)
+
+## Maya Selva
+* Villa Zamorano Robusto (Honduras): 4
+* Villa Zamorano No 15 (Honduras): 3.7
 
 ## Viva La Vida
 * Toro: 3.5
