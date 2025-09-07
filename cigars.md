@@ -104,6 +104,9 @@ Super Toro - Too long
 * 1926 Serie No. 2: 4.5
 * 1926 No. 6 Natural: 4.5
 
+## Perdomo
+* 20th anniversary: 3
+
 ## Plasencia
 * Alma del Fuego Concepcion: 5.0
 * Reserva original church: 3.5
