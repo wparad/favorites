@@ -3,9 +3,13 @@
 
 Super Toro - Too long
 
-### A.Fuente
+## A.Fuente
 * Rosado Magnum R54 CE: 3.5~4
 * Hemingway Signiture: 3.8
+
+## A.J. Ferandez
+* New World Cameroon Double Robusto: 4
+* San Loano Toro Maduro: 4.5
 
 ## Aging Room
 * Nicaragua Quattro Espressivo: 3.5~4.5
@@ -15,7 +19,7 @@ Super Toro - Too long
 * Syncro Fog Toro: 3.8
 
 ## Antigua
-* Esteli Segovias Maduro Toro BP: 3.5~4.0 (Too Dark)
+* Estelie Segovias Maduro Toro BP: 3.5~4.0 (Too Dark)
 
 ## Bolivar
 * Coronas Junior: 5.0 (Too short)
@@ -25,10 +29,10 @@ Super Toro - Too long
 * Colorado Gran Toro: 0 (Do not get the Gran anything)
 
 ## Cumpay
-* No 15: 3.5
-* Robusto:
+* No 15: 4
+* Robusto: 3.5
 * Short:
-* Volcan:
+* Volcan: 3.5
   
 ## Cuaba
 * Distinguidos: 4.0
@@ -59,11 +63,16 @@ Super Toro - Too long
 ## Esencia
 * Yes!
 
+## E.P. Carillo
+* Encore Majestic: 3.8
+* La Historia El Senador: 3.5 - Bland
+
 ## EPC Encore
 * El Primero: 3.0
 
-## Flor des Selva
+## Flor de Selva
 * Classic No. 15: 3.0
+* Classic Robusto: 4.0
 
 ## H. Upmann
 * Propios Limited Edition 2018: 4.5
@@ -95,6 +104,7 @@ Super Toro - Too long
 * La Opulencia Super Toro: 3.0
 * Le Bijou 1922: 3.5 (Too Dark)
 * The Judge Toro: 4.0
+
 
 ## Oliva
 * Serie V Liga Especial Double Toro: 3.5
