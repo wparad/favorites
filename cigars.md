@@ -9,6 +9,7 @@ Super Toro - Too long
 
 ## A.J. Ferandez
 * New World Cameroon Double Robusto: 4
+* New World Puo Especial: 3
 * San Loano Toro Maduro: 4.5
 
 ## Aging Room
